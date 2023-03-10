@@ -19,5 +19,3 @@ def number_of_subscribers(subreddit):
         return subs
     return 0
 
-def new_func():
-    return "https://www.reddit.com/r/{}/about.json"
