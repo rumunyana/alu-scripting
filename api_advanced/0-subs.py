@@ -18,3 +18,6 @@ def number_of_subscribers(subreddit):
         subs = data['subscribers']
         return subs
     return 0
+
+def new_func():
+    return "https://www.reddit.com/r/{}/about.json"
